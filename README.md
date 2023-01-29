@@ -22,7 +22,7 @@ You can make an unordered list by preceding - and space, see:-
 
 # Chapter-3 distinct block
 
-To format code or text into its own distinct block, use triple backticks, put codes/script within backticks, Noted:-here we have multiple option see:- 1st- ```  ```, 2nd- ```t ```, 3rd- ```bash ```.
+To format code or text into its own distinct block, use triple backticks, put codes/script within backticks(backquote), Noted:-here we have multiple option see:- 1st- ```  ```, 2nd- ```t ```, 3rd- ```bash ```.
 
 1st example of text into its own distinct block
 ```t
